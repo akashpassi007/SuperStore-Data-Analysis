@@ -8,5 +8,6 @@
 
 **Actionable Insights and Recommendations:** End goal is to share valuable insighrs and actionable information that can drive strategic decision-making and support the supermarket's goals for growth , efficiency and customer satisfaction.
 
+**Skills:** Power Bi, SQL, MS-Excel, Python.
 
 
